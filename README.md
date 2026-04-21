@@ -1,2 +1,2 @@
-# data-analyst-portfolio
-My SQL, Python, and Power BI projects
+# Advanced Data Analyst Project
+Python + SQL + Power BI project.
