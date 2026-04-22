@@ -1,1 +1,0 @@
-SELECT Category, SUM(Sales) FROM sales_data GROUP BY Category;
